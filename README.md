@@ -41,6 +41,10 @@ api-key
 ALL three steps plus the 2 bonus tasks were covered.
 opening the localhost default page should display the stats(all the user calls based on user id) 
 ![Display Sample](https://i.imgur.com/mGrJykO.png)
+  
+* LIVE DEMO SITE AT: http://cranchian.pythonanywhere.com/ 
+* BOT ADDRESS: @impressjokerbot
+* Connect to the above bot in telegram.
 
 
 The entire project was fun especially due to some time constraints on my side.
