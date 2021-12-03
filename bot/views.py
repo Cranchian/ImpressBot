@@ -50,7 +50,7 @@ def receive_message(request):
     return JsonResponse({"ok": "POST request processed"})
 
 
-@staticmethod
+
 def process_message(chatId, chatMsg):
     """
     process the message:
@@ -87,7 +87,6 @@ def process_message(chatId, chatMsg):
     send_message(result_message, chatId)
 
 
-@staticmethod
 def send_message(message, chat_id):
     """
     Send message to the bot
