@@ -35,20 +35,7 @@ py manage.py runserver
 ```
 
 ## Afterword
-DM through either my discord - #Master Flame#2911 or through my email if you face any errors. Also DM if you want to just screencast and show the project or if you need my
-api-key
-
-ALL three steps plus the 2 bonus tasks were covered.
-opening the localhost default page should display the stats(all the user calls based on user id) 
-![Display Sample](https://i.imgur.com/mGrJykO.png)
-  
+DM through either my discord - #Master Flame#2911 or through my email if you face any errors.
 * LIVE DEMO SITE AT: http://cranchian.pythonanywhere.com/ 
 * BOT ADDRESS: @impressjokerbot
 * Connect to the above bot in telegram.
-
-
-The entire project was fun especially due to some time constraints on my side.
-I have not completely build it from the github repository that was given because it was way too outdated. Built it from ground up, I did try to just make it using the 
-github project but some of the modules are too outdated that the pip refuses to install it. But I did learn a lot from that app to build this one. It was a fun project 
-to talk about if I do get the interview.
-Thank you
